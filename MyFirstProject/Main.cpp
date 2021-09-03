@@ -6,6 +6,5 @@ First codding experience.*/
 #include <iostream>
 int main()
 {
-	std::cout << "Hello World! Red.";
-	return 0;
+	std::cout << "Hello World! Red." <<std::endl;
 }
